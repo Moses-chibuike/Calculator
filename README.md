@@ -6,3 +6,4 @@ Its features include:
 •Subtract
 •Divide.
 Built With love☺️, HTML CSS and javascript.
+This is the link to the live DEMO:https://moses-chibuike.github.io/Calculator/
